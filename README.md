@@ -3,6 +3,7 @@
 Repo for my code to solve various coding challenges.
 
 Problem#1
+Boatman Bridge Problem
 You may have come across an old but fun riddle concerning a boatman who has to transport a tiger, goat and a bale of grass across a river.  In this puzzle, one can represent the affinity of the three main items to be transported as follows:
 
 Item List:
@@ -31,3 +32,5 @@ Advanced Challenge:
 
 Generalize the program. The program should accept any "nXn" affinity matrix as well as the number of items that can be carried across the river in one trip ("m"). Based on these, the program should output the journey. 
 
+Solution:-
+BoatmanBridgeSolution.java
