@@ -66,19 +66,6 @@ public class Traveller {
 			System.out.println("Empty (from shore " + from.toString() + " to " + to.toString() + ")");
 		}
 		setCurrLocation(to);
-		
-		/*Iterator<String> itr1 = getSource().getResources().iterator();
-		System.out.print("source resources ");
-		while(itr1.hasNext()) {
-			System.out.print(itr1.next());
-		}
-		System.out.println();
-		System.out.print("destination resources ");
-		Iterator<String> itr2 = getDestination().getResources().iterator();
-		while(itr2.hasNext()) {
-			System.out.print(itr2.next());
-		}
-		System.out.println();*/
 		tripCount++;
 	}
 	
